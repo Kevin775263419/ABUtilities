@@ -1,0 +1,6 @@
+framework module Pods_ABUtilities_Tests {
+  umbrella header "Pods-ABUtilities_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

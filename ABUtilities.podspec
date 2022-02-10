@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'ABUtilities'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of ABUtilities.'
+  s.summary          = 'ABUtilities is a first page'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  'Finally, don t worry about the indent, CocoaPods strips it!'
                        DESC
 
-  s.homepage         = 'https://github.com/秦光义/ABUtilities'
+  s.homepage         = 'https://github.com/Kevin775263419/ABUtilities'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '秦光义' => '775263419@qq.com' }
-  s.source           = { :git => 'https://github.com/秦光义/ABUtilities.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Kevin775263419/ABUtilities.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'

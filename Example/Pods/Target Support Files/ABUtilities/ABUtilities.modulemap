@@ -1,0 +1,6 @@
+framework module ABUtilities {
+  umbrella header "ABUtilities-umbrella.h"
+
+  export *
+  module * { export * }
+}

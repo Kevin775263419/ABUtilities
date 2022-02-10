@@ -1,0 +1,16 @@
+PODS:
+  - ABUtilities (0.1.0)
+
+DEPENDENCIES:
+  - ABUtilities (from `../`)
+
+EXTERNAL SOURCES:
+  ABUtilities:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ABUtilities: bf0b23b401fbdc335caeb032ef64c39c243cd7c8
+
+PODFILE CHECKSUM: 99d202003d3a36020eca70a31a0f7d88b43a42ac
+
+COCOAPODS: 1.10.1
