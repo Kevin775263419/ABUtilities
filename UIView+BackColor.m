@@ -8,5 +8,8 @@
 #import "UIView+BackColor.h"
 
 @implementation UIView (BackColor)
+- (void)setupColor {
+    self.backgroundColor = [UIColor greenColor];
+}
 
 @end
