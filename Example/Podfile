@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ABUtilities_Example' do
+  pod 'ABUtilities', :path => '../'
+
+  target 'ABUtilities_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
