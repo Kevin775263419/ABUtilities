@@ -7,6 +7,7 @@
 //
 
 #import "ABViewController.h"
+//#import <ABUtilities/UIView+BackColor.h>
 
 @interface ABViewController ()
 
@@ -18,6 +19,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+//    [self.view setupColor];
+    NSLog(@"1234");
 }
 
 - (void)didReceiveMemoryWarning
